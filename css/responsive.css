@@ -1,0 +1,66 @@
+@charset "UTF-8";
+
+@media (max-width: 600px) {
+
+  nav ul {
+  padding: 20px 10px;
+}
+
+  nav ul li {
+  font-size: 15px;
+}
+
+#service,
+#news,
+#price {
+  width: 90%;
+  margin: 100px auto;
+}
+
+  
+  .top_wrap h1 {
+  margin: 10px auto;
+}
+
+.section_title {
+  font-size: 30px;
+  margin-bottom: 50px;
+}
+
+.service_wrap {
+  display: block;
+  align-items: none;
+  justify-content: none;
+}
+
+.service_left img {
+  width: 100%;
+  height: auto;
+}
+
+.service_right p {
+  font-size: 13px;
+  color: #555;
+}
+
+.news_wrap p {
+  font-size: 13px;
+  padding-left: 40px;
+}
+
+label {
+  display: block;
+}
+
+input,
+textarea {
+  width: 100%;
+  margin-bottom: 5px;
+}
+
+#footer {
+  padding: 30px;
+  font-size: 10px;
+}
+
+}
